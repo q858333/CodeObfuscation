@@ -111,9 +111,9 @@
 				F7E3A88E1CEB241900404A8C /* AppDelegate.m */,
 				F7E3A8901CEB241900404A8C /* ViewController.h */,
 				F7E3A8911CEB241900404A8C /* ViewController.m */,
-				F7E3A8C31CEB251F00404A8C /* codeObfuscation.h */,
 				F7E3A8BD1CEB247600404A8C /* confuse.sh */,
 				F7E3A8BE1CEB247600404A8C /* func.list */,
+				F7E3A8C31CEB251F00404A8C /* codeObfuscation.h */,
 				F7E3A8931CEB241900404A8C /* Main.storyboard */,
 				F7E3A8961CEB241900404A8C /* Assets.xcassets */,
 				F7E3A8981CEB241900404A8C /* LaunchScreen.storyboard */,
@@ -527,6 +527,7 @@
 				F7E3A8B61CEB241900404A8C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F7E3A8B71CEB241900404A8C /* Build configuration list for PBXNativeTarget "CodeObfuscationTests" */ = {
 			isa = XCConfigurationList;
@@ -535,6 +536,7 @@
 				F7E3A8B91CEB241900404A8C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F7E3A8BA1CEB241900404A8C /* Build configuration list for PBXNativeTarget "CodeObfuscationUITests" */ = {
 			isa = XCConfigurationList;
@@ -543,6 +545,7 @@
 				F7E3A8BC1CEB241900404A8C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
