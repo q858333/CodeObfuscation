@@ -1,3 +1,6 @@
+代码混淆
+查考（http://blog.csdn.net/yiyaaixuexi/article/details/29201699）念茜博主的资料完成的demo
+
 # codeObfuscation
 创建.sh文件
 首先需要一个文本编辑工具，可以下载vim编辑器（下载地址http://code.google.com/p/macvim/），也可以用系统自带的文本编辑器，在里面输入代码。
