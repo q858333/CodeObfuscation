@@ -1,18 +1,18 @@
 //
-//  AnimationTests.m
-//  AnimationTests
+//  CodeObfuscationTests.m
+//  CodeObfuscationTests
 //
-//  Created by DengBin on 16/3/25.
+//  Created by DengBin on 16/5/17.
 //  Copyright © 2016年 DB. All rights reserved.
 //
 
 #import <XCTest/XCTest.h>
 
-@interface AnimationTests : XCTestCase
+@interface CodeObfuscationTests : XCTestCase
 
 @end
 
-@implementation AnimationTests
+@implementation CodeObfuscationTests
 
 - (void)setUp {
     [super setUp];

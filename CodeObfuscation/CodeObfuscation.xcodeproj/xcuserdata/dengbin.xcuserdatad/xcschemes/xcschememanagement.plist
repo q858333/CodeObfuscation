@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Animation.xcscheme</key>
+		<key>CodeObfuscation.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,17 +12,17 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>F7E6EBA61CA53793009973A4</key>
+		<key>F7E3A8861CEB241900404A8C</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>F7E6EBBF1CA53793009973A4</key>
+		<key>F7E3A89F1CEB241900404A8C</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>F7E6EBCA1CA53793009973A4</key>
+		<key>F7E3A8AA1CEB241900404A8C</key>
 		<dict>
 			<key>primary</key>
 			<true/>

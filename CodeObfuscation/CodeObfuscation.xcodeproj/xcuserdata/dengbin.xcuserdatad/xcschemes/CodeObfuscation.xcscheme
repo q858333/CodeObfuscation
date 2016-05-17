@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "F7E6EBA61CA53793009973A4"
-               BuildableName = "codeObfuscation.app"
-               BlueprintName = "codeObfuscation"
-               ReferencedContainer = "container:codeObfuscation.xcodeproj">
+               BlueprintIdentifier = "F7E3A8861CEB241900404A8C"
+               BuildableName = "CodeObfuscation.app"
+               BlueprintName = "CodeObfuscation"
+               ReferencedContainer = "container:CodeObfuscation.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,30 +32,30 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "F7E6EBBF1CA53793009973A4"
-               BuildableName = "codeObfuscation.xctest"
-               BlueprintName = "codeObfuscationTests"
-               ReferencedContainer = "container:codeObfuscation.xcodeproj">
+               BlueprintIdentifier = "F7E3A89F1CEB241900404A8C"
+               BuildableName = "CodeObfuscationTests.xctest"
+               BlueprintName = "CodeObfuscationTests"
+               ReferencedContainer = "container:CodeObfuscation.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "F7E6EBCA1CA53793009973A4"
-               BuildableName = "codeObfuscation.xctest"
-               BlueprintName = "codeObfuscationUITests"
-               ReferencedContainer = "container:codeObfuscation.xcodeproj">
+               BlueprintIdentifier = "F7E3A8AA1CEB241900404A8C"
+               BuildableName = "CodeObfuscationUITests.xctest"
+               BlueprintName = "CodeObfuscationUITests"
+               ReferencedContainer = "container:CodeObfuscation.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "F7E6EBA61CA53793009973A4"
-            BuildableName = "codeObfuscation.app"
-            BlueprintName = "codeObfuscation"
-            ReferencedContainer = "container:codeObfuscation.xcodeproj">
+            BlueprintIdentifier = "F7E3A8861CEB241900404A8C"
+            BuildableName = "CodeObfuscation.app"
+            BlueprintName = "CodeObfuscation"
+            ReferencedContainer = "container:CodeObfuscation.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -75,10 +75,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "F7E6EBA61CA53793009973A4"
-            BuildableName = "codeObfuscation.app"
-            BlueprintName = "codeObfuscation"
-            ReferencedContainer = "container:codeObfuscation.xcodeproj">
+            BlueprintIdentifier = "F7E3A8861CEB241900404A8C"
+            BuildableName = "CodeObfuscation.app"
+            BlueprintName = "CodeObfuscation"
+            ReferencedContainer = "container:CodeObfuscation.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -94,10 +94,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "F7E6EBA61CA53793009973A4"
-            BuildableName = "codeObfuscation.app"
-            BlueprintName = "codeObfuscation"
-            ReferencedContainer = "container:codeObfuscation.xcodeproj">
+            BlueprintIdentifier = "F7E3A8861CEB241900404A8C"
+            BuildableName = "CodeObfuscation.app"
+            BlueprintName = "CodeObfuscation"
+            ReferencedContainer = "container:CodeObfuscation.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
