@@ -1,0 +1,19 @@
+//
+//  codeObfuscation.pch
+//  Animation
+//
+//  Created by DengBin on 16/5/16.
+//  Copyright © 2016年 DB. All rights reserved.
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_5_0
+#warning "This project uses features only available in iOS SDK 5.0 and later."
+#endif
+
+#ifdef __OBJC__
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import "codeObfuscation.h"
+#endif
