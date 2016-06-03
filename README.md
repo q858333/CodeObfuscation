@@ -10,3 +10,4 @@ echo haha
 
 然后另存文件为**.sh，打开shell进入刚才保存的目录，执行chmod +x myscript.sh，到这儿为止，就建立好了。
 直接把**.sh拖到shell里面回车就会看到haha的结果。
+
